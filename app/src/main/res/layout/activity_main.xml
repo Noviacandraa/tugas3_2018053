@@ -211,6 +211,7 @@
                                 app:cardUseCompatPadding="true">
                                 <ImageView
                                     android:id="@+id/imageView1"
+                                    android:onClick="spageti"
                                     android:layout_width="150dp"
                                     android:layout_height="100dp"
                                     app:srcCompat="@drawable/spageti" />
