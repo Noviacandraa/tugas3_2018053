@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BAB3_MakananInter</string>
+    <string name="deskripsi_makanan">MAKANAN INTERNASIONAL</string>
+    <string name="details">Menyediakan makanan Internasional, Asia, Indonesia, Italia, Timur Tengah, Swedia, Liguria, Italia Utara, Eropa</string>
+    <string name="keterangan">Bahan yang kita gunakan adalah bahan bahan yang berkualitas tinggi bahkan ada yang khusus di import dari negara asalnya</string>
+    <string name="price">HARGA</string>
+    <string name="Harga_makanan">Start from 200.000</string>
+
+</resources>
